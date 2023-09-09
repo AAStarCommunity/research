@@ -5,7 +5,8 @@ No founders, just contributors.
 
 Research on Ethereum Accounts related
 
-SoulWallet，Plancker联合发起，建设和服务以太坊的公共物品国际化组织，名字暂定：Ethereum Star。
+~~SoulWallet，Plancker联合发起，建设和服务以太坊的公共物品国际化组织，名字暂定：Ethereum Star。~~
+We consensus with the name: AA Star! Help AA to practice the Mass Adoption roadmap of Ethereum!
 
 目前提案建立AA Global Group，建立自己Github，网站（独立）和论坛（可公用plancker的），以及bounty（可公用plancker的），在各个AA社区宣传自己理念和公共物品产出和积极参与贡献。
 
