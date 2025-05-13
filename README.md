@@ -1,4 +1,10 @@
-# Research
+# Research V0.2
+
+Now we try to build a open research repo for AA and related topics in 2025, replace the collection on notion.
+This repo will publish at [https://research.aastar.io](https://research.aastar.io).
+Welcome to any researcher to contribute for related topics.
+
+
 Task board is here: https://github.com/Ethereum-Star/Research/blob/main/task-board.md
 
 No founders, just contributors.
