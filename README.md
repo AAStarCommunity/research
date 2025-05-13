@@ -5,6 +5,9 @@ This repo will publish at [https://research.aastar.io](https://research.aastar.i
 Welcome to any researcher to contribute for related topics.
 Just for and send a pull request(PR), we will audit and publish your topics or any contributions.
 
+## More
+We use https://github.com/docsifyjs/docsify/ to generate our website.
+
 
 ## Research v0.1(deprecated)
 ~~Task board is here: https://github.com/Ethereum-Star/Research/blob/main/task-board.md~~
