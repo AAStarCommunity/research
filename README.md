@@ -1,25 +1,32 @@
-# Research V0.2
+# Research V0.2 :rocket:
 
-Now we try to build a open research repo for AA and related topics in 2025, replace the collection on notion.
-This repo will publish at [https://research.aastar.io](https://research.aastar.io).
-Welcome to any researcher to contribute for related topics.
-Just for and send a pull request(PR), we will audit and publish your topics or any contributions.
+Now we try to build a open research repo for AA and related topics in 2025,
+replace the collection on notion. This repo will publish at
+[https://research.aastar.io](https://research.aastar.io).
 
-## More
+Welcome to any researcher to contribute for related topics. Just for and send a
+pull request(PR), we will audit and publish your topics or any contributions
+:carrot:.
+
+## More :closed_lock_with_key:
+
 We use https://github.com/docsifyjs/docsify/ to generate our website.
 
+## Research v0.1(deprecated) :camping:
 
-## Research v0.1(deprecated)
-~~Task board is here: https://github.com/Ethereum-Star/Research/blob/main/task-board.md~~
+~~Task board is here:
+https://github.com/Ethereum-Star/Research/blob/main/task-board.md~~
 
 No founders, just contributors.
 
 Research on Ethereum Accounts related
 
-~~SoulWallet，Plancker联合发起，建设和服务以太坊的公共物品国际化组织，名字暂定：Ethereum Star。~~
-We consensus with the name: AA Star! Help AA to practice the Mass Adoption roadmap of Ethereum!
+~~SoulWallet，Plancker联合发起，建设和服务以太坊的公共物品国际化组织，名字暂定：Ethereum
+Star。~~ We consensus with the name: AA Star! Help AA to practice the Mass
+Adoption roadmap of Ethereum!
 
-目前提案建立AA Global Group，建立自己Github，网站（独立）和论坛（可公用plancker的），以及bounty（可公用plancker的），在各个AA社区宣传自己理念和公共物品产出和积极参与贡献。
+目前提案建立AA Global
+Group，建立自己Github，网站（独立）和论坛（可公用plancker的），以及bounty（可公用plancker的），在各个AA社区宣传自己理念和公共物品产出和积极参与贡献。
 
 依靠社区来撬动更多力量，为AA生态提供公共物品/服务，繁荣生态，持续深入发展：
 
@@ -37,7 +44,7 @@ Hackathon组队：基于workshop，进行产品化，组件小组，参加全球
 
 资金来源+回报：Grant，未来追溯（DAO化/内部项目投资机会）
 
--------
+---
 
 第一期：6个月，目标：
 
@@ -47,7 +54,8 @@ Hackathon组队：基于workshop，进行产品化，组件小组，参加全球
 
 行业分析两篇：各典型应用的发展趋势和AA参与加速的机会可能
 
-插件等三个机制+开源的模块贡献，EIP准备（钱包切换标准，public guardian标准，promotion标准）
+插件等三个机制+开源的模块贡献，EIP准备（钱包切换标准，public
+guardian标准，promotion标准）
 
 两个钱包Demo
 
@@ -55,10 +63,17 @@ Hackathon组队：基于workshop，进行产品化，组件小组，参加全球
 
 努力用可信中立的方式，启动一个垂直建设的工作组（DAO）：
 
-1.Don’t write specific people or specific outcomes into the mechanism 
+1.Don’t write specific people or specific outcomes into the mechanism
 
-2.Open source and publicly verifiable execution 
+2.Open source and publicly verifiable execution
 
-3.Keep it simple 
+3.Keep it simple
 
-4.Don’t change it too often, while considering the principle of efficacy with shelling fancy for the failure-safe feasible mechanism for the moment and keep striving to get closer to credible neutrality.
+4.Don’t change it too often, while considering the principle of efficacy with
+shelling fancy for the failure-safe feasible mechanism for the moment and keep
+striving to get closer to credible neutrality.
+
+## Thanks
+
+Thanks for docsifyjs team for docsify :heart: You start to try it
+here:https://docsify.js.org/#/quickstart
