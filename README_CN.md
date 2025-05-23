@@ -1,6 +1,6 @@
 # Research V0.2 :rocket:
 
-[中文版](README_CN.md)
+[中文版](README_CN.md) [English](README.md)
 
 Now we try to build a open research repo for AA and related topics in 2025,
 replace the collection on notion. This repo will publish at
@@ -16,52 +16,25 @@ We use https://github.com/docsifyjs/docsify/ to generate our website.
 
 ## Research area
 
-### Research levels
+### 日常工作划分三个级别
 
-- Understanding: :learning:
+- 了解：每周两小时以上投入，区块链和以太坊相关重大更新和变化的关注和了解，例如Beamchain了解和跟进；发布为科普文章和视频。
+- 调研：每周五小时以上，未来feature有诉求，需要持续跟进，必须有代码，有论文，例如PQC的跟进和格计算案例等等
+- 研发：每周30小时以上，以产出愿景规划的里程碑为目标的产品设计和研究，开发工作，有proposal和五文档，每周跟进计划和feature反馈
 
-Keep Informed: Dedicate over two hours weekly to stay updated on significant
-changes and developments in blockchain and Ethereum, such as tracking and
-understanding Beamchain. Share these insights through科普 articles and videos.
+### 对应的文档和媒体材料
 
-- Research: :diving_mask:
+- Article：发表于公开媒体的一些持续跟进和分析总结，包括了解和调研两个级别的
+- Roadmap and Milestone：roadmap和重要的节点规划，宣传，最好有应用可以体验
+- Journal：研发部分核心项目要有论文，严谨的论证，发arxiv和journal；论文初稿完成，评审通过即可进入设计和迭代，发表可以滞后；
+- Solution：必须结合论文，业界调研信息，协议愿景和具体问题，以及我们构想的解决方案，经过三轮以上AI深入分析，阅读，调整，再AI
+- Features：拆分为具体的产品features，且和整体产品要可组合，UX是体验和效果都要，绝对有三个以上的重大更新和突破（在问题上）
+- Plan:
+  如何完成features的开发，测试，部署，维护，扩容，负载均衡，容错和黑客攻击，备份恢复。
+- Deploy：不同环境的部署和安装，包括服务架构和客户端，包括不同版本，不同软硬件，不同环境的兼容。
+- Changes：每次新feature的变化和更新，值得记录的部分
 
-Deep Dive: Spend more than five hours weekly on future feature demands,
-requiring continuous follow-up with code and academic papers. Examples include
-monitoring Post-Quantum Cryptography (PQC) and lattice-based computing use
-cases.
-
-- Development: :engine:
-
-Product & Engineering: Allocate over 30 hours weekly to product design,
-research, and development, aiming to achieve planned roadmap milestones. This
-includes creating proposals and detailed documentation, along with weekly
-progress tracking and feature feedback.
-
-### Research documents
-
-- Articles: Publish ongoing analyses and summaries on public media, covering
-  both the "Understanding" and "Research" levels.
-- Roadmap and Milestones: Plan and publicize the roadmap and key milestones,
-  ideally with usable applications for public experience.
-- Journal: Core development projects should include rigorous academic papers for
-  arXiv and journal submissions. Initial drafts can proceed to design and
-  iteration after peer review, with publication potentially happening later.
-- Solution: Solutions must integrate insights from academic papers, industry
-  research, protocol visions, specific problems, and our proposed approaches.
-  They should undergo at least three rounds of in-depth AI analysis, review, and
-  refinement.
-- Features: Break down solutions into specific product features that are modular
-  and combinable within the overall product. Focus on both user experience (UX)
-  and impact, aiming for at least three significant updates and breakthroughs in
-  addressing problems.
-- Plan: Outline how features will be developed, tested, deployed, maintained,
-  scaled, load-balanced, made fault-tolerant, protected against hacker attacks,
-  and backed up/recovered.
-- Deploy: Detail deployment and installation procedures for different
-  environments, including service architecture and clients. This covers
-  compatibility across various versions, hardware/software, and environments.
-- Changes: Document noteworthy changes and updates for each new feature.
+---
 
 ## Research v0.1(deprecated) :camping:
 
