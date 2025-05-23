@@ -5,25 +5,32 @@
 Now we try to build a open research repo for AA and related topics in 2025,
 replace the collection on notion.
 
+[Join here](https://github.com/AAStarCommunity/research/issues) Just open a new
+issue, begin to do something, then send a PR and we will review and publish your
+topics or any contributions :carrot:.
+
+All contributions are welcome and will be put into
+[review](https://github.com/AAStarCommunity/research/review).
+
 This repo will publish at
-[https://research.aastar.io](https://research.aastar.io).
+[https://www.aastar.io/research](https://www.aastar.io/research).
 
 Welcome to any researcher to contribute for related topics. Just for and send a
-pull request(PR), we will audit and publish your topics or any contributions
-:carrot:.
+pull request(PR), we will review and publish your topics or any contributions
+🥕.
 
 ## Research area :scientist:
 
 ### Research levels
 
-- Understanding: :student:
+- Understanding: 🧑‍🎓
 
 Keep Informed: Dedicate over two hours weekly to stay updated on significant
 changes and developments in blockchain and Ethereum, such as tracking and
 understanding Beamchain. Share these insights through popular science articles
 and videos.
 
-- Research: :diving_mask:
+- Research: 🤿
 
 Deep Dive: Spend more than five hours weekly on future feature demands,
 requiring continuous follow-up with code and academic papers. Examples include
@@ -37,9 +44,9 @@ research, and development, aiming to achieve planned roadmap milestones. This
 includes creating proposals and detailed documentation, along with weekly
 progress tracking and feature feedback.
 
-### Research documents :file_folder:
+### Research documents 📂
 
-- Articles :newspaper:
+- Articles 🎯
 
 Publish ongoing analyses and summaries on public media, covering both the
 "Understanding" and "Research" levels.
@@ -55,13 +62,12 @@ Core development projects should include rigorous academic papers for arXiv and
 journal submissions. Initial drafts can proceed to design and iteration after
 peer review, with publication potentially happening later.
 
-- Solution 💯
+- Solution 💯 Solutions must integrate insights from academic papers, industry
+  research, protocol visions, specific problems, and our proposed approaches.
+  They should undergo at least three rounds of in-depth AI analysis, review, and
+  refinement.
 
-Solutions must integrate insights from academic papers, industry research,
-protocol visions, specific problems, and our proposed approaches. They should
-undergo at least three rounds of in-depth AI analysis, review, and refinement.
-
-- Features :gift:
+- Features 🎁
 
 Break down solutions into specific product features that are modular and
 combinable within the overall product. Focus on both user experience (UX) and
@@ -80,7 +86,7 @@ Detail deployment and installation procedures for different environments,
 including service architecture and clients. This covers compatibility across
 various versions, hardware/software, and environments.
 
-- Changes :alien:
+- Changes 👽
 
 Document noteworthy changes and updates for each new feature.
 
