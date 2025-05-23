@@ -10,10 +10,6 @@ Welcome to any researcher to contribute for related topics. Just for and send a
 pull request(PR), we will audit and publish your topics or any contributions
 :carrot:.
 
-## More :closed_lock_with_key:
-
-We use https://github.com/docsifyjs/docsify/ to generate our website.
-
 ## Research area
 
 ### 日常工作划分三个级别
@@ -33,6 +29,10 @@ We use https://github.com/docsifyjs/docsify/ to generate our website.
   如何完成features的开发，测试，部署，维护，扩容，负载均衡，容错和黑客攻击，备份恢复。
 - Deploy：不同环境的部署和安装，包括服务架构和客户端，包括不同版本，不同软硬件，不同环境的兼容。
 - Changes：每次新feature的变化和更新，值得记录的部分
+
+## More :closed_lock_with_key:
+
+We use https://github.com/docsifyjs/docsify/ to generate our website.
 
 ---
 

@@ -62,10 +62,11 @@ Core development projects should include rigorous academic papers for arXiv and
 journal submissions. Initial drafts can proceed to design and iteration after
 peer review, with publication potentially happening later.
 
-- Solution 💯 Solutions must integrate insights from academic papers, industry
-  research, protocol visions, specific problems, and our proposed approaches.
-  They should undergo at least three rounds of in-depth AI analysis, review, and
-  refinement.
+- Solution 💯
+
+Solutions must integrate insights from academic papers, industry research,
+protocol visions, specific problems, and our proposed approaches. They should
+undergo at least three rounds of in-depth AI analysis, review, and refinement.
 
 - Features 🎁
 
