@@ -1,26 +1,27 @@
 # Research V0.2 :rocket:
 
-[中文版](README_CN.md) [English](README.md) Now we try to build a open research
-repo for AA and related topics in 2025, replace the collection on notion. This
-repo will publish at [https://research.aastar.io](https://research.aastar.io).
+[中文版](README_CN.md) [English](README.md)
+
+Now we try to build a open research repo for AA and related topics in 2025,
+replace the collection on notion.
+
+This repo will publish at
+[https://research.aastar.io](https://research.aastar.io).
 
 Welcome to any researcher to contribute for related topics. Just for and send a
 pull request(PR), we will audit and publish your topics or any contributions
 :carrot:.
 
-## More :closed_lock_with_key:
-
-We use https://github.com/docsifyjs/docsify/ to generate our website.
-
-## Research area
+## Research area :scientist:
 
 ### Research levels
 
-- Understanding: :learning:
+- Understanding: :student:
 
 Keep Informed: Dedicate over two hours weekly to stay updated on significant
 changes and developments in blockchain and Ethereum, such as tracking and
-understanding Beamchain. Share these insights through科普 articles and videos.
+understanding Beamchain. Share these insights through popular science articles
+and videos.
 
 - Research: :diving_mask:
 
@@ -29,37 +30,59 @@ requiring continuous follow-up with code and academic papers. Examples include
 monitoring Post-Quantum Cryptography (PQC) and lattice-based computing use
 cases.
 
-- Development: :engine:
+- Development: 👷‍♂️
 
 Product & Engineering: Allocate over 30 hours weekly to product design,
 research, and development, aiming to achieve planned roadmap milestones. This
 includes creating proposals and detailed documentation, along with weekly
 progress tracking and feature feedback.
 
-### Research documents
+### Research documents :file_folder:
 
-- Articles: Publish ongoing analyses and summaries on public media, covering
-  both the "Understanding" and "Research" levels.
-- Roadmap and Milestones: Plan and publicize the roadmap and key milestones,
-  ideally with usable applications for public experience.
-- Journal: Core development projects should include rigorous academic papers for
-  arXiv and journal submissions. Initial drafts can proceed to design and
-  iteration after peer review, with publication potentially happening later.
-- Solution: Solutions must integrate insights from academic papers, industry
-  research, protocol visions, specific problems, and our proposed approaches.
-  They should undergo at least three rounds of in-depth AI analysis, review, and
-  refinement.
-- Features: Break down solutions into specific product features that are modular
-  and combinable within the overall product. Focus on both user experience (UX)
-  and impact, aiming for at least three significant updates and breakthroughs in
-  addressing problems.
-- Plan: Outline how features will be developed, tested, deployed, maintained,
-  scaled, load-balanced, made fault-tolerant, protected against hacker attacks,
-  and backed up/recovered.
-- Deploy: Detail deployment and installation procedures for different
-  environments, including service architecture and clients. This covers
-  compatibility across various versions, hardware/software, and environments.
-- Changes: Document noteworthy changes and updates for each new feature.
+- Articles :newspaper:
+
+Publish ongoing analyses and summaries on public media, covering both the
+"Understanding" and "Research" levels.
+
+- Roadmap and Milestones 🏷️
+
+Plan and publicize the roadmap and key milestones, ideally with usable
+applications for public experience.
+
+- Journal 📚
+
+Core development projects should include rigorous academic papers for arXiv and
+journal submissions. Initial drafts can proceed to design and iteration after
+peer review, with publication potentially happening later.
+
+- Solution 💯
+
+Solutions must integrate insights from academic papers, industry research,
+protocol visions, specific problems, and our proposed approaches. They should
+undergo at least three rounds of in-depth AI analysis, review, and refinement.
+
+- Features :gift:
+
+Break down solutions into specific product features that are modular and
+combinable within the overall product. Focus on both user experience (UX) and
+impact, aiming for at least three significant updates and breakthroughs in
+addressing problems.
+
+- Plan ✅
+
+Outline how features will be developed, tested, deployed, maintained, scaled,
+load-balanced, made fault-tolerant, protected against hacker attacks, and backed
+up/recovered.
+
+- Deploy 🏭
+
+Detail deployment and installation procedures for different environments,
+including service architecture and clients. This covers compatibility across
+various versions, hardware/software, and environments.
+
+- Changes :alien:
+
+Document noteworthy changes and updates for each new feature.
 
 ---
 
