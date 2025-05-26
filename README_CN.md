@@ -18,7 +18,7 @@ pull request(PR), we will audit and publish your topics or any contributions
 - 调研：每周五小时以上，未来feature有诉求，需要持续跟进，必须有代码，有论文，例如PQC的跟进和格计算案例等等
 - 研发：每周30小时以上，以产出愿景规划的里程碑为目标的产品设计和研究，开发工作，有proposal和五文档，每周跟进计划和feature反馈
 
-### 对应的文档和媒体材料
+### 对应的文档
 
 - Article：发表于公开媒体的一些持续跟进和分析总结，包括了解和调研两个级别的
 - Roadmap and Milestone：roadmap和重要的节点规划，宣传，最好有应用可以体验
