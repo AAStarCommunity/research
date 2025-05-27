@@ -1,5 +1,5 @@
 - [Home](/)
-- [Ideas](ideas/Idea.md)
+- [Ideas](ideas/crazy-stupid-ideas.md)
 - [Industry](Industry/IndustryResearch.md)
 - [Tasks](tasks/task-board.md)
-- [AAStar](AAStar.md)
+- [AAStar](https://aastar.io)
