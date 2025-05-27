@@ -21,15 +21,16 @@ Welcome to any researcher to contribute for related topics. Just for and send a
 pull request(PR), we will review and publish your topics or any contributions
 🥕.
 
+好的，这为您改进后的带有 GitHub emoji 的 Markdown 表格：
+
 ## What we have?
-### Industry Daily Snapshot
-[Industry Daily Snapshot](industry/IndustryResearch.md)
-### Crazy or Stupid Ideas
-[Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)
-### AI Programmers Sharing
-[AI Programmers](ai/ai-programmers.md)
-### Bounty for You
-[Bounty for You](bounty/bounty.md)
+
+| Section                 | Link                                                                 |
+| :---------------------- | :------------------------------------------------------------------- |
+| Industry Daily Snapshot | `:link: [Industry Daily Snapshot](industry/IndustryResearch.md)`     |
+| Crazy or Stupid Ideas   | `:link: [Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)`        |
+| AI Programmers Sharing  | `:link: [AI Programmers](ai/ai-programmers.md)`                      |
+| Bounty for You          | `:link: [Bounty for You](bounty/bounty.md)`                          |
 
 
 ### AAStar
