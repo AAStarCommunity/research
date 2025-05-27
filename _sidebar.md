@@ -2,4 +2,4 @@
 - [Ideas](ideas/Idea.md)
 - [Industry](Industry/IndustryResearch.md)
 - [Tasks](tasks/task-board.md)
-- [AAStar](AAStar.md)
+- [AAStar](https://aastar.io)

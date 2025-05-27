@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
 
 - [Research](/)
-- [AAStar Docs](/AAStar.md)
+- [AAStar Docs](https://docs.aastar.io)

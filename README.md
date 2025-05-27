@@ -12,6 +12,17 @@ pull request(PR), we will audit and publish your topics or any contributions
 [Industry Daily Snapshot](industry/IndustryResearch.md)
 ### Crazy or Stupid Ideas
 [Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)
+### AI Programmers Sharing
+[AI Programmers](ai/ai-programmers.md)
+### Bounty for You
+[Bounty for You](bounty/bounty.md)
+
+### AAStar
+- We, AAStar, commit to build a open source infra for human digittal future ❤️.
+- All products are open source and public goods. 
+- You can try to fork and launch your own version. 
+- Any questions, please open an issue at https://github.com/AAStarCommunity/research/issues. 
+- Or something need to be discussed, please open a discussion at https://github.com/orgs/AAStarCommunity/discussions
 
 
 ## Thanks Docsify! 😍
