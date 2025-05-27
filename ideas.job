@@ -1,0 +1,87 @@
+# Ideas Collection Task
+
+## Task Description
+扫描ideas目录下的markdown文档（除了crazy-stupid-ideas.md），生成想法卡片集合。这是一个可以多次执行的任务，每次执行都会重新扫描所有文档并更新卡片内容。
+
+## Format Requirements
+
+### Card Format
+每个想法卡片应遵循以下格式：
+
+```markdown
+### [Document Title]
+
+**Status**: [思考中/开发中/已产品化]
+
+**Overview**: 
+[Brief summary of the idea]
+
+**Source**: [Document Link]
+
+---
+```
+
+### Example
+```markdown
+### NFT Marketplace Analytics
+
+**Status**: 开发中
+
+**Overview**: 
+为NFT市场提供深度分析工具，帮助用户更好地理解市场趋势和价值评估。包括价格预测、稀有度分析和市场活跃度指标。
+
+**Source**: [ideas/nft-marketplace-analytics.md](ideas/nft-marketplace-analytics.md)
+
+---
+```
+
+## Task Steps
+1. 扫描ideas目录下的所有markdown文档（除了crazy-stupid-ideas.md）
+2. 从每个文档中提取：
+   - 文档标题（通常是一级标题）
+   - 状态信息（思考中/开发中/已产品化）
+   - 概述内容
+3. 为每个文档生成一个卡片
+4. 将所有卡片整理到crazy-stupid-ideas.md文件中
+
+## File Organization
+- 源文件目录：`ideas/`
+- 汇总文件：`ideas/crazy-stupid-ideas.md`
+- 排除文件：`crazy-stupid-ideas.md`
+
+## Status Tracking
+文档中的状态标记应该是以下三种之一：
+- 思考中：初始阶段，仍在构思和完善
+- 开发中：已开始实施或正在开发
+- 已产品化：已经完成并转化为产品
+
+## Best Practices
+
+### 文档扫描
+- 只处理.md后缀的文件
+- 忽略以.开头的隐藏文件
+- 检查文件是否可读
+- 记录无法处理的文件以便后续跟进
+
+### 内容提取
+- 优先使用文档中的一级标题作为卡片标题
+- 如果没有一级标题，使用文件名作为标题
+- 寻找文档中明确标记的状态信息
+- 提取文档开头的概述或简介部分
+
+### 卡片管理
+- 按状态对卡片进行分组
+- 在每个状态组内按字母顺序排序
+- 保持卡片格式的一致性
+- 确保所有链接都是相对路径
+
+### 更新处理
+- 每次执行都完整重新生成卡片
+- 保留crazy-stupid-ideas.md文件中的非卡片内容（如简介、说明等）
+- 在更新时保持文档的其他部分不变
+
+## Notes
+- 确保所有文档都有明确的状态标记
+- 保持概述简洁，通常不超过3-4句话
+- 所有文档链接使用相对路径
+- 定期检查文档完整性和状态更新
