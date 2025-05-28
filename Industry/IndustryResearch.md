@@ -50,10 +50,10 @@ We just get some news for a glance of the industry, which related to our work.
 
 ---
 
-#### Beanchain 路线图介绍
-> Beanchain发布了详细的项目路线图，概述了未来发展计划。
+#### Beamchain 路线图介绍
+> Beamchain发布了详细的项目路线图，概述了未来发展计划。
 
-该路线图提供了Beanchain项目的战略方向和关键里程碑。通过研究这份路线图，我们可以更好地理解项目的长期愿景和近期目标，有助于评估其技术发展轨迹和潜在的市场影响。
+该路线图提供了Beamchain项目的战略方向和关键里程碑。通过研究这份路线图，我们可以更好地理解项目的长期愿景和近期目标，有助于评估其技术发展轨迹和潜在的市场影响。
 
 🔗 Source: [https://beamroadmap.org/](https://beamroadmap.org/)
 
