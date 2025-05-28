@@ -1,0 +1,166 @@
+# Industry Daily Research Task
+
+## Required Environment
+- **Root Directory**: aastar
+- **Working Directory**: Research
+
+确保在执行此job时，当前目录结构符合上述要求。如果不在正确的目录中执行，job将无法正常工作。
+
+## Task Description
+整理每日行业研究内容，将收集的新闻和个人见解整理为规范的Markdown格式。这是一个可以多次执行的任务，每次执行时都会以追加方式添加新内容到当日的日期标题下。
+
+## Format Requirements
+
+### Date Format
+使用以下格式创建日期标题：
+```markdown
+### DD Month YYYY
+```
+例如：`### 27 May 2025`
+
+### Content Format
+每个研究项目应遵循以下格式：
+
+```markdown
+#### [Title]
+> [Key Quote or Summary]
+
+[Brief Analysis/Personal Insights]
+
+🔗 Source: [URL]
+
+---
+```
+
+### Example
+```markdown
+#### Ethereum Layer 2 Adoption Surges
+> Arbitrum达到新的TVL峰值，超过100亿美元。
+
+这表明L2解决方案正在获得更广泛的采用，特别是在DeFi领域。这种增长可能会进一步推动ETH生态系统的扩展。
+
+🔗 Source: [https://example.com/news/arbitrum-tvl]
+
+---
+```
+
+## Task Steps
+1. 收集相关新闻和见解
+2. 在IndustryResearch.md文件中找到或创建当天的日期标题
+   - 如果是新的日期，将其添加到文档最前面（在"Daily Snapshot"描述之后）
+   - 确保日期按时间倒序排列（最新的在最上面）
+3. 以追加方式在当日日期标题下添加新的研究项目
+4. 确保内容简洁明了，重点突出
+5. 添加相关链接和来源
+
+## Multiple Entries Handling
+- 每天的内容必须放在对应日期的标题下（例如：28 May的内容放在"### 28 May 2025"下）
+- 不同日期的内容严格分开，不能混合在一起
+- 每天可以多次执行此任务，新内容追加到当天的日期标题下
+- 每次执行时可以添加多条信息
+- 每条信息都应该有独立的四级标题
+- 同一天内的内容保持时间顺序，新内容追加在该日期已有内容之后
+
+### Multiple Entries Example
+```markdown
+### 27 May 2025
+
+#### First News Title
+> Key quote or summary for first news
+
+Analysis for first news
+
+🔗 Source: [URL1]
+
+---
+
+#### Second News Title
+> Key quote or summary for second news
+
+Analysis for second news
+
+🔗 Source: [URL2]
+
+---
+
+#### Third News Title
+> Key quote or summary for third news
+
+Analysis for third news
+
+🔗 Source: [URL3]
+
+---
+```
+
+## File Location
+所有内容应添加到：`Research/Industry/IndustryResearch.md`
+
+## Notes
+- 保持格式一致性
+- 确保日期按时间倒序排列（最新的在最上面）
+- 每个项目都应该包含源链接
+- 个人见解应该简明扼要，突出关键点
+- 严格遵守历史内容不可修改原则：
+  * 不修改已有日期下的任何内容
+  * 只能添加新的日期和新的内容
+  * 历史新闻条目必须保持原样
+
+## Best Practices
+### 日期组织
+- 新的日期永远添加在文件顶部
+- 同一天的内容保持在同一个日期标题下
+- 不同天的内容用日期标题明确分隔
+
+### 内容管理
+- 相关主题的条目可以放在一起
+- 重要更新可以引用之前的相关条目
+- 使用清晰的标题便于后续检索
+- 保持每个条目的独立性和完整性
+
+### 长期维护
+- 定期检查链接有效性
+- 考虑按月或按季度创建新的文件以控制单个文件大小
+- 可以在年末进行年度总结归档
+- 重要的长期趋势可以标记特殊标签以便跟踪
+
+### 标题命名建议
+- 使用简洁但描述性的标题
+- 包含关键公司/项目名称
+- 可以添加标签如[Update]、[Breaking]等标示重要程度
+- 相关主题可以使用一致的前缀便于分类
+
+## 信息完整性检查
+当提供的行业动态信息不完整时，系统将通过对话方式询问缺失的信息：
+
+### 必要信息检查
+1. **标题缺失**：
+   - "请为这条行业动态提供一个标题。"
+   - "标题应包含关键公司/项目名称和核心事件。"
+
+2. **关键引用/总结缺失**：
+   - "请提供一个关键引用或简短总结。"
+   - "这条新闻最重要的一句话是什么？"
+
+3. **来源链接缺失**：
+   - "请提供新闻来源的URL。"
+   - "这条信息来自哪里？请提供链接。"
+
+### 补充信息检查
+1. **分析见解缺失**：
+   - "您对这个事件有什么见解或分析吗？"
+   - "这个动态对行业可能产生什么影响？"
+
+2. **时间信息不明确**：
+   - "这个事件发生在什么时候？"
+   - "这是最新发生的还是之前的新闻？"
+
+3. **上下文信息**：
+   - "这个事件的背景是什么？"
+   - "与之前的相关事件有什么联系吗？"
+
+### 最佳实践
+- 通过友好的对话方式收集信息
+- 按照格式要求逐项确认信息完整性
+- 优先询问必要信息，再补充其他信息
+- 引导用户提供有深度的分析见解
