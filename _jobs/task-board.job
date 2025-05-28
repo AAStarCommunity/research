@@ -1,0 +1,120 @@
+# Task Board Management Job
+
+## Required Environment
+- **Root Directory**: aastar
+- **Working Directory**: Research
+
+确保在执行此job时，当前目录结构符合上述要求。如果不在正确的目录中执行，job将无法正常工作。
+
+## Task Description
+扫描并分析task-*.md文档，提取关键信息并更新task-board.md。这个job会自动识别新的task文档，并将其内容整理添加到task面板中。每个task只会被处理一次，避免重复添加。
+
+## Format Requirements
+
+### Task Entry Format
+每个任务条目应遵循以下格式：
+
+```markdown
+### Task-[Number]
+**Date**: DD Month YYYY
+**Status**: [Pending/In Progress/Completed]
+**Priority**: [High/Medium/Low]
+
+[Task Description]
+
+**Key Points**:
+- [Point 1]
+- [Point 2]
+...
+
+---
+```
+
+### Example
+```markdown
+### Task-1
+**Date**: 28 May 2025
+**Status**: Pending
+**Priority**: High
+
+实现自动化任务追踪系统
+
+**Key Points**:
+- 需要支持多种任务类型
+- 自动更新任务状态
+- 生成进度报告
+
+---
+```
+
+## Task Steps
+1. 扫描Research目录下的task-*.md文件
+2. 检查task-board.md中是否已存在该任务
+   - 如果存在，跳过处理
+   - 如果不存在，提取信息并添加
+3. 从task文档中提取以下信息：
+   - 任务编号（从文件名）
+   - 创建日期
+   - 任务状态
+   - 优先级
+   - 任务描述
+   - 关键点
+4. 将提取的信息格式化后添加到task-board.md
+5. 确保新任务添加到合适的位置（按编号排序）
+
+## File Locations
+- 任务文档：`Research/task-*.md`
+- 任务面板：`Research/task-board.md`
+
+## Notes
+- 保持格式一致性
+- 确保任务按编号排序
+- 避免重复处理已添加的任务
+- 保持原始task文档的完整性
+
+## Best Practices
+### 任务识别
+- 通过文件名提取任务编号
+- 检查是否已在task-board.md中存在
+- 记录已处理的任务以避免重复
+
+### 内容提取
+- 准确提取所有必要字段
+- 保持原始描述的完整性
+- 确保关键点清晰可读
+
+### 长期维护
+- 定期检查任务状态更新
+- 保持task-board.md的整洁和可读性
+- 考虑定期归档已完成的任务
+
+## 信息完整性检查
+当task文档中的信息不完整时，系统将通过对话方式询问缺失的信息：
+
+### 必要信息检查
+1. **日期缺失**：
+   - "请提供任务的创建日期。"
+   - "这个任务是什么时候创建的？"
+
+2. **状态缺失**：
+   - "请指定任务的当前状态。"
+   - "这个任务是处于什么阶段？"
+
+3. **优先级缺失**：
+   - "请设定任务的优先级。"
+   - "这个任务的优先级是高/中/低？"
+
+### 补充信息检查
+1. **描述不清**：
+   - "能否详细描述一下任务的具体内容？"
+   - "这个任务的目标是什么？"
+
+2. **关键点缺失**：
+   - "请列出这个任务的主要关键点。"
+   - "完成这个任务需要注意哪些要点？"
+
+### 最佳实践
+- 通过友好的对话方式收集信息
+- 按照格式要求逐项确认信息完整性
+- 优先询问必要信息，再补充其他信息
+- 确保所有关键信息都被正确记录

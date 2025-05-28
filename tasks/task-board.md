@@ -1,4 +1,25 @@
-Here is our task board, it may change later.
+# Task Board
+
+## Task-1
+**Date**: 28 May 2025
+**Status**: In Progress
+**Priority**: High
+
+AA提供商产品和价格策略研究
+
+**Key Points**:
+- 研究周期：30天
+- 研究范围：10个AA提供商的产品和价格对比
+- 输出格式：PhD研究格式报告，字数限制6000字以内
+- 研究目标：为AAStar开源产品制定价格策略提供指导
+- 报酬：160U
+- 重点关注：
+  * 各提供商的定价模型（SAAS/CUs等）
+  * 产品特性对比
+  * 市场策略分析
+
+---
+
 
 ## Samples
 + **Task1**

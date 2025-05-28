@@ -1,0 +1,110 @@
+# Blog Management Job
+
+## Required Environment
+- **Root Directory**: aastar
+- **Working Directory**: Research/blog
+
+确保在执行此job时，当前目录结构符合上述要求。
+
+## Job Description
+自动扫描blog目录下的blog-*.md文件，提取关键信息并更新blog-board.md。这个job会自动识别新的blog文档，提取必要信息并整理到博客面板中。每个博客只会被处理一次，避免重复添加。
+
+## Format Requirements
+
+### Blog Entry Format
+每个博客条目应遵循以下格式：
+
+```markdown
+### [Blog Title]
+**Date**: DD Month YYYY
+**Link**: [blog-X.md](blog/blog-X.md)
+
+[Blog Summary]
+
+**Keywords**:
+- [Keyword 1]
+- [Keyword 2]
+...
+
+---
+```
+
+### Example
+```markdown
+### 深入理解云原生架构
+**Date**: 15 May 2025
+**Link**: [blog-1.md](blog/blog-1.md)
+
+探讨云原生架构的核心概念、最佳实践以及实现方案。
+
+**Keywords**:
+- Cloud Native
+- Kubernetes
+- Microservices
+- DevOps
+
+---
+```
+
+## Job Steps
+1. 扫描blog目录下的blog-*.md文件
+2. 检查blog-board.md中是否已存在该博客
+   - 如果存在，跳过处理
+   - 如果不存在，提取信息并添加
+3. 从blog文档中提取以下信息：
+   - 博客标题
+   - 发布日期
+   - 博客概述
+   - 关键词
+4. 生成博客链接（基于文件名）
+5. 将提取的信息格式化后添加到blog-board.md
+6. 按照日期倒序排列（最新的在前）
+
+## File Locations
+- 博客文档：`Research/blog/blog-*.md`
+- 博客面板：`Research/blog/blog-board.md`
+
+## Information Extraction Rules
+1. **标题提取**：
+   - 从文档的第一个一级标题(#)提取
+   - 如果没有一级标题，使用第一个二级标题(##)
+   - 如果都没有，使用文件名作为标题
+
+2. **日期提取**：
+   - 查找文档中的日期格式（YYYY-MM-DD或类似格式）
+   - 如果没有找到，使用文件的创建日期
+
+3. **概述提取**：
+   - 提取文档开头的第一段非标题文本
+   - 如果第一段过长，截取前200个字符并添加省略号
+
+4. **关键词提取**：
+   - 查找文档中标记为"Keywords"或"关键词"的列表
+   - 如果没有显式的关键词列表，从文档内容中提取重要词组
+
+## Best Practices
+1. **内容组织**：
+   - 保持blog-board.md的整洁和可读性
+   - 确保所有链接都是可用的
+   - 维护统一的格式和样式
+
+2. **更新策略**：
+   - 定期检查新增的博客文档
+   - 避免重复处理已添加的博客
+   - 保持博客列表的时间顺序
+
+3. **信息完整性**：
+   - 确保每个博客条目包含所有必要信息
+   - 验证提取的信息的准确性
+   - 保持原始博客文档的完整性
+
+## Error Handling
+当无法从博客文档中提取到必要信息时：
+1. 记录错误信息
+2. 使用可用的替代信息
+3. 标记需要人工审查的条目
+
+## Maintenance
+- 定期验证所有博客链接
+- 更新过期的信息
+- 归档不再相关的博客
