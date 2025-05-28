@@ -89,5 +89,21 @@ https://www.alchemy.com/pricing
 https://www.alchemy.com/docs/reference/compute-units
 
 ## Other model?
+https://docs.stackup.fi/docs/transaction-fees
+
+Stackup charges a flat 0.3% platform fee on most transactions. This fee applies to token transfers, swaps, and smart contract interactions.
+
+Fee Exceptions
+A few transactions have different fee structures:
+
+ACH transfers: 0.7% total fee
+
+Yield transactions: Percentage of yield generated
+
+Access control management: Free
+
+---
+
+https://docs.stackup.fi/v1/docs/pricing-plans
 
 ## AAStar price model

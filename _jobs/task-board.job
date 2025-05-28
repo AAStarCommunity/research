@@ -19,6 +19,7 @@
 **Date**: DD Month YYYY
 **Status**: [Pending/In Progress/Completed]
 **Priority**: [High/Medium/Low]
+**Link**: [task-X.md](task-X.md)
 
 [Task Description]
 
@@ -36,6 +37,7 @@
 **Date**: 28 May 2025
 **Status**: Pending
 **Priority**: High
+**Link**: [task-1.md](task-1.md)
 
 实现自动化任务追踪系统
 

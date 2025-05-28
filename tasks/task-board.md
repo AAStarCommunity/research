@@ -4,6 +4,7 @@
 **Date**: 28 May 2025
 **Status**: In Progress
 **Priority**: High
+**Link**: [task-1.md](/tasks/task-1.md)
 
 AA提供商产品和价格策略研究
 
