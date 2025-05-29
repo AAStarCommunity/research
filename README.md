@@ -12,7 +12,7 @@ topics or any contributions :carrot:.
 [https://www.aastar.io/research](https://www.aastar.io/research).
 - Welcome to any researcher to contribute for related topics. Just for and send a pull request(PR), we will review and publish your topics or any contributions🥕.
 
-## What we have?
+## What do we have?
 
 | Section                 | Link                                                                 |
 | :---------------------- | :------------------------------------------------------------------- |
