@@ -2,5 +2,5 @@
 - [Industry Daily Snapshot](Industry/IndustryResearch.md)
 - [Crazy or stupid ideas](ideas/crazy-stupid-ideas.md)
 - [Bounty Tasks](tasks/task-board.md)
-- [Blog posts(Research results)](blog/blog-board.md)
+- [Research Blog](blog/blog-board.md)
 - [AAStar](https://aastar.io)
