@@ -17,7 +17,7 @@ topics or any contributions :carrot:.
 | Section                 | Link                                                                 |
 | :---------------------- | :------------------------------------------------------------------- |
 | Industry Daily | `:link:` [Industry Daily](industry/IndustryResearch.md)   |
-| Blog               | `:link:` [Blog](blog/blog-board.md)                                |
+| Research Blog      | `:link:` [Research Blog](blog/blog-board.md)                                |
 | Task and Bounty    | `:link:` [Task and Bounty](tasks/task-board.md)                               |
 | Crazy or Stupid Ideas   | `:link:` [Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)      |
 
