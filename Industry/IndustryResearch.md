@@ -3,6 +3,41 @@
 ## Daily Snapshot
 We just get some news for a glance of the industry, which related to our work.
 
+### 29 May 2025
+
+#### AI Charts MCP：基于自然语言的智能图表生成工具
+> Antvis团队发布了AI Charts MCP，这是一个革新性的图表生成工具，通过自然语言交互实现数据可视化。
+
+这个工具代表了数据可视化领域的重要进展。通过将AI与antvis技术栈结合，它简化了复杂图表的创建过程。对于开发者和数据分析师来说，这种自然语言驱动的方法可能会显著提高工作效率。
+
+![AI Charts MCP演示界面](https://camo.githubusercontent.com/f274c385660f0ae58a171565c86ac06993a2b0b123bb6d21a5ea3c5f129ae157/68747470733a2f2f6d646e2e616c697061796f626a656374732e636f6d2f6875616d65695f7161387178752f616674732f696d672f412a5a6c7a4b514b6f4a7a735941414141414141414141414141656d4a3741512f666d742e77656270)
+
+🔗 Source: [https://github.com/antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart)
+
+---
+
+#### Philoagents：AI驱动的哲学教育创新
+> Philoagents项目推出了一个独特的AI教育平台，允许用户与模拟的历史哲学家进行对话。
+
+这个项目展示了AI在教育领域的创新应用。通过让用户与康德、柏拉图、老子等历史哲学家进行对话，它为哲学教育带来了全新的互动维度。这种方法不仅使学习更加生动，也开创了AI辅助教育的新范式。
+
+![Philoagents系统架构图](https://github.com/neural-maze/philoagents-course/raw/main/static/diagrams/system_architecture.png)
+
+🔗 Source: [https://github.com/neural-maze/philoagents-course](https://github.com/neural-maze/philoagents-course)
+
+---
+
+#### Deta Surf：重新定义AI增强型浏览器体验
+> 来自欧洲的Deta Surf发布，将AI功能无缝集成到网络浏览体验中。
+
+这款浏览器的发布标志着AI工具与日常网络活动的深度融合。通过集成AI阅读助手和智能笔记功能，Deta Surf展示了下一代浏览器的发展方向。其优雅的设计和功能创新可能会影响未来浏览器的发展趋势。
+
+![Deta Surf浏览器界面](https://deta.surf/_image?href=%2F_astro%2Fnote.C2Wvr0Qa.webp&w=920&h=520&q=95&f=webp)
+
+🔗 Source: [https://deta.surf/](https://deta.surf/)
+
+---
+
 ### 28 May 2025
 
 #### 南欧非以太坊生态的Web3建设

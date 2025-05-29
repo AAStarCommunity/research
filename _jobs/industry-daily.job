@@ -27,10 +27,14 @@
 
 [Brief Analysis/Personal Insights]
 
+![Image Description](Image URL)
+
 🔗 Source: [URL]
 
 ---
 ```
+
+注意：从2025年5月29日开始，每个条目都必须包含一张配图。图片应与内容相关，并提供适当的描述。
 
 ### Example
 ```markdown
@@ -38,6 +42,8 @@
 > Arbitrum达到新的TVL峰值，超过100亿美元。
 
 这表明L2解决方案正在获得更广泛的采用，特别是在DeFi领域。这种增长可能会进一步推动ETH生态系统的扩展。
+
+![Arbitrum TVL图表显示增长趋势](https://example.com/images/arbitrum-tvl-chart.jpg)
 
 🔗 Source: [https://example.com/news/arbitrum-tvl]
 
