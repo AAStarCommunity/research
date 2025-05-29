@@ -18,10 +18,8 @@ topics or any contributions :carrot:.
 | :---------------------- | :------------------------------------------------------------------- |
 | Industry Daily Snapshot | `:link:` [Industry Daily Snapshot](industry/IndustryResearch.md)   |
 | Blog                    | `:link:` [Blog](blog/blog-board.md)                                |
-| Task                    | `:link:` [Task](tasks/task-board.md)                               |
+| Bounty Task             | `:link:` [Task](tasks/task-board.md)                               |
 | Crazy or Stupid Ideas   | `:link:` [Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)      |
-| AI Programmers Sharing  | `:link:` [AI Programmers](ai/ai-programmers.md)                    |
-| Bounty for You          | `:link:` [Bounty for You](bounty/bounty.md)                        |
 
 ### AAStar
 - We, AAStar, commit to build a open source infra for human digittal future ❤️.
