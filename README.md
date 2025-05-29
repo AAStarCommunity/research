@@ -16,9 +16,9 @@ topics or any contributions :carrot:.
 
 | Section                 | Link                                                                 |
 | :---------------------- | :------------------------------------------------------------------- |
-| Industry Daily Snapshot | `:link:` [Industry Daily Snapshot](industry/IndustryResearch.md)   |
-| Blog                    | `:link:` [Blog](blog/blog-board.md)                                |
-| Bounty Task             | `:link:` [Task](tasks/task-board.md)                               |
+| Industry Daily | `:link:` [Industry Daily](industry/IndustryResearch.md)   |
+| Blog               | `:link:` [Blog](blog/blog-board.md)                                |
+| Task and Bounty    | `:link:` [Task and Bounty](tasks/task-board.md)                               |
 | Crazy or Stupid Ideas   | `:link:` [Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)      |
 
 ### AAStar

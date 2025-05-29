@@ -1,5 +1,5 @@
-：# Industry research
-
+# Industry Daily
+Just Crypto, AI and Tech ㊙️ 🤖 🕸️.
 ## Daily Snapshot
 We just get some news for a glance of the industry, which related to our work.
 
