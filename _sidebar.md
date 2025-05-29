@@ -3,6 +3,6 @@
 - [Industry Daily Snapshot](Industry/IndustryResearch.md)
 - [Tasks for members](tasks/task-board.md)
 - [Blog posts(Research results)](blog/blog-board.md)
-- [AI Programmers](ai/doing.md)
+- [AI Programmers](ai/ai-programmers.md)
 - [Bounty for You](bounty/bounty.md)
 - [AAStar](https://aastar.io)

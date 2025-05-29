@@ -20,7 +20,7 @@ topics or any contributions :carrot:.
 | Blog                    | `:link:` [Blog](blog/blog-board.md)                                |
 | Task                    | `:link:` [Task](tasks/task-board.md)                               |
 | Crazy or Stupid Ideas   | `:link:` [Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)      |
-| AI Programmers Sharing  | `:link:` [AI Programmers](ai/doing.md)                    |
+| AI Programmers Sharing  | `:link:` [AI Programmers](ai/ai-programmers.md)                    |
 | Bounty for You          | `:link:` [Bounty for You](bounty/bounty.md)                        |
 
 ### AAStar
