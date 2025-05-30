@@ -1,5 +1,28 @@
 # Blog Board
 
+## OP-TEE TEE OS 架构与操作解析
+![TEE Architecture](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202505301409954.png)
+https://optee.readthedocs.io/en/latest/general/about.html
+
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202505101719766.png" width="50%"/>
+
+**Date**: 30 May 2025
+**Link**: [blog-3.md](/blog/blog-3.md)
+
+深入分析OP-TEE可信执行环境操作系统的架构和工作原理，探讨了其在安全世界和普通世界之间的隔离机制，以及TEE作为AAStar安全基石的重要性。包含了系统启动、安全应用执行和通信协议等关键环节的详细解析。
+
+**Keywords**:
+- TEE
+- OP-TEE
+- 安全架构
+- Trusted Applications
+- Secure World
+- 系统安全
+- SGX
+- 硬件安全
+
+---
+
 ## gRPC和libp2p的结合使用研究
 ![](https://www.grpc.io/img/landing-2.svg)
 **Date**: 28 May 2025

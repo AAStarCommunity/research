@@ -4,12 +4,12 @@ TEE是我们（AAStar）依靠的一个安全基石之一，我们假设硬件�
 当然ZKP会后面引入，这样相互制衡，硬件作恶，也无法伪造凭证(因为算法验证而非依赖硬件），从而制造一个均衡下的多方验证安全。
 本blog会汇总TEE相关的研究分析在此。
 [TEE](Blog/TEE/TEE-analysis.md)
-[TEE-OpenClave](Blog/TEE/TEE-OpenClave.md)
-[TEE-VM](Blog/TEE/TEE-VM.md)
+[TEE-client](Blog/TEE/TEE-client.md)
+[TEE-server](Blog/TEE/TEE-server.md)
+[VM](Blog/TEE/TEE-VM.md)
 [TEE-SGX](Blog/TEE/TEE-SGX.md)
 [TEE-wallet](Blog/TEE/TEE-wallet.md)
 [NixOS](Blog/TEE/NixOS.md)
-[VM](Blog/TEE/VM-Investigation.md)
 
 ## OpenClave TEE OS 架构与操作解析
 
