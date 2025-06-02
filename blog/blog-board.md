@@ -2,7 +2,8 @@
 ---
 
 ## 平台垄断与协作创新：从美团到去中心化平台的思考
-![Platform Economy vs DAO](https://img.meituan.net/smartvenus/a8d3630547a9bc02c113b24f730446e9891533.png)
+<img src="https://img.meituan.net/smartvenus/a8d3630547a9bc02c113b24f730446e9891533.png" width="50%" alt="Platform Economy vs DAO"/>
+
 **Date**: 2 June 2025
 **Link**: [Monopoly&Cooperation.md](/blog/economics/Monopoly&Cooperation.md)
 
