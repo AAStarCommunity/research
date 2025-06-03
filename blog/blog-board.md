@@ -1,4 +1,22 @@
 # Blog Board
+
+## SDSS雨计算：去中心化服务系统的技术架构
+![SDSS Architecture](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506031332213.png)
+**Date**: 3 June 2025
+**Link**: [SDSS-Rain-Computing.md](/blog/infra/SDSS-Rain-Computing.md)
+
+深入探讨SDSS（标准去中心化服务系统）的技术架构和实现细节。作为云计算的替代方案，SDSS/Rain Computing通过去中心化方式提供计算服务，同时避免数据和计算能力的垄断。文章详细介绍了V0.1版本的核心组件，包括节点体系（N0-N3）、服务发现机制、ENS集成以及声誉系统等关键特性，并探讨了去中心化服务的未来发展方向。
+
+**Keywords**:
+- 雨计算
+- 去中心化服务
+- ENS
+- TEE
+- 边缘计算
+- 服务发现
+- 声誉系统
+- 分布式架构
+
 ---
 
 ## 平台垄断与协作创新：从美团到去中心化平台的思考
