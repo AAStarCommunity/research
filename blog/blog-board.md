@@ -5,7 +5,7 @@
 
 Light clients enable more people to use Ethereum as first-class citizens, verifying data on the blockchain without relying on centralized service providers. Lodestar is actively contributing to light client development for Ethereum.
 
-![Lodestar](https://lodestar.chainsafe.io/window2.png)
+<img src="https://lodestar.chainsafe.io/window2.png" width="50%"/>
 
 **Date**: 4 June 2025
 **Link**: [Ethereum-Light-Client.md](/blog/infra/Ethereum-Light-Client.md)
@@ -13,6 +13,9 @@ Light clients enable more people to use Ethereum as first-class citizens, verify
 深入分析以太坊轻客户端的能力、发展情况、安装部署及调用方法。
 
 **Keywords**:
+- light client
+- light-ethjs
+- lodestar
 - EIP-4844
 - Blob Data
 - Pectra
