@@ -1,5 +1,29 @@
 # Blog Board
 
+## 以太坊轻客户端详解
+我先说个人分析的结论：轻节点严重依赖全节点来提供大部分服务,目前layer2 dapp无法方便使用（核心是去中心，相比于Alchemy RPC），未来依赖rachive节点+全节点改造和提升+layer2专用轻节点+硬件算力提升成本下降+硬件需求下降，可能是一个思路，而轻节点应该再次退化更轻点？
+
+Light clients enable more people to use Ethereum as first-class citizens, verifying data on the blockchain without relying on centralized service providers. Lodestar is actively contributing to light client development for Ethereum.
+
+![Lodestar](https://lodestar.chainsafe.io/window2.png)
+
+**Date**: 4 June 2025
+**Link**: [Ethereum-Light-Client.md](/blog/infra/Ethereum-Light-Client.md)
+
+深入分析以太坊轻客户端的能力、发展情况、安装部署及调用方法。
+
+**Keywords**:
+- EIP-4844
+- Blob Data
+- Pectra
+- Optimism
+- Layer2
+- 数据可用性
+- 全节点
+- Rollup
+
+---
+
 ## SDSS雨计算：去中心化服务系统的技术架构
 ![SDSS Architecture](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506031332213.png)
 **Date**: 3 June 2025
