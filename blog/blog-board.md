@@ -1,4 +1,22 @@
 # Blog Board
+## 数据泄露的经济学思考：从羔羊到数据主权
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506081156230.jpg" alt="Data Leak" width="50%"/>
+<img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506081129813.png" alt="Data Security" width="50%"/>
+
+**Date**: 8 June 2025
+**Link**: [Data-Leak.md](/blog/economics/Data-Leak.md)
+
+从经济学视角深入分析数据泄露问题。探讨了中心化平台对用户数据的控制与利用，以及当前数据保护机制的缺陷。文章提出了基于ZK和加密算法的个人数据自主管理方案，包括70多个数据字段的分类销售模型，以及基于客观数据和外部反馈的动态评估机制。同时讨论了社会工程学数据库的威胁，并提供了个人数据保护的实践建议。
+
+**Keywords**:
+- 数据泄露
+- 隐私保护
+- ZK加密
+- 数据主权
+- 社会工程学
+- 数据变现
+- 去中心化
+- 个人隐私
 
 ## 以太坊轻客户端详解
 我先说个人分析的结论：轻节点严重依赖全节点来提供大部分服务,目前layer2 dapp无法方便使用（核心是去中心，相比于Alchemy RPC），未来依赖rachive节点+全节点改造和提升+layer2专用轻节点+硬件算力提升成本下降+硬件需求下降，可能是一个思路，而轻节点应该再次退化更轻点？
