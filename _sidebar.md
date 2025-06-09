@@ -1,6 +1,4 @@
 - [Home](/)
-- [Industry Daily Snapshot](Industry/IndustryResearch.md)
-- [Crazy or stupid ideas](ideas/crazy-stupid-ideas.md)
-- [Bounty Tasks](tasks/task-board.md)
+- [Industry Snapshot](Industry/IndustryResearch.md)
 - [Research Blog](blog/blog-board.md)
 - [AAStar](https://aastar.io)

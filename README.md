@@ -16,10 +16,8 @@ topics or any contributions :carrot:.
 
 | Section                 | Link                                                                 |
 | :---------------------- | :------------------------------------------------------------------- |
-| Industry Daily | `:link:` [Industry Daily](industry/IndustryResearch.md)   |
+| Industry Snapshot | `:link:` [Industry Snapshot](industry/IndustryResearch.md)   |
 | Research Blog      | `:link:` [Research Blog](blog/blog-board.md)                                |
-| Task and Bounty    | `:link:` [Task and Bounty](tasks/task-board.md)                               |
-| Crazy or Stupid Ideas   | `:link:` [Crazy or Stupid Ideas](ideas/crazy-stupid-ideas.md)      |
 
 ### AAStar
 - We, AAStar, commit to build a open source infra for human digittal future ❤️.
@@ -32,14 +30,14 @@ topics or any contributions :carrot:.
 
 | TypeName  | Describe                                                  | Repo                                                       |
 | :-------- | :-------------------------------------------------------- | :--------------------------------------------------------- |
-| Infra     | SuperPaymaster: a universal open source paymaster contract for account abstraction. | [https://github.com/AAStarCommunity/SuperPaymaster](https://www.google.com/search?q=https://github.com/AAStarCommunity/SuperPaymaster)     |
-| Infra     | SDS: an architecture for decentralized service sponsor system. | [https://github.com/AAStarCommunity/SDSS](https://www.google.com/search?q=https://github.com/AAStarCommunity/SDSS)                |
-| Infra     | AirAccount: an open source account abstraction contract.    | [https://github.com/AAStarCommunity/AirAccount](https://www.google.com/search?q=https://github.com/AAStarCommunity/AirAccount)          |
-| Infra     | AirAccount-Rust-Relay: an open source relay server for AirAccount. | [https://github.com/AAStarCommunity/AirAccount-Rust-Relay](https://www.google.com/search?q=https://github.com/AAStarCommunity/AirAccount-Rust-Relay) |
-| Infra     | OpenPNTs: an open source token solution for community sustainability | [https://github.com/AAStarCommunity/OpenPNTs](https://www.google.com/search?q=https://github.com/AAStarCommunity/OpenPNTs)            |
-| Infra     | CometENS: an open source ENS for AirAccount and SDSS.     | [https://github.com/AAStarCommunity/CometENS](https://github.com/AAStarCommunity/CometENS)            |
-| framework | HexagonWarrior: Multi OS client framework                 | [https://github.com/AAStarCommunity/HexagonWarrior-Tauri](https://www.google.com/search?q=https://github.com/AAStarCommunity/HexagonWarrior-Tauri)  |
-| framework | SDK and Demo: A quick Nodejs SDK and a demo to show features | [https://github.com/AAStarCommunity/AAStar\_SDK](https://github.com/AAStarCommunity/AAStar_SDK)          |
+| Infra     | SuperPaymaster: a universal open source paymaster contract for account abstraction. | [SuperPaymaster](https://github.com/AAStarCommunity/SuperPaymaster)     |
+| Infra     | SDS: an architecture for decentralized service sponsor system. | [SDSS](https://github.com/AAStarCommunity/SDSS)                |
+| Infra     | AirAccount: an open source account abstraction contract.    | [AirAccount](https://github.com/AAStarCommunity/AirAccount)          |
+| Infra     | AirAccount-Rust-Relay: an open source relay server for AirAccount. | [AirAccount-Rust-Relay](https://github.com/AAStarCommunity/AirAccount-Rust-Relay) |
+| Infra     | OpenPNTs: an open source token solution for community sustainability | [OpenPNTs](https://github.com/AAStarCommunity/OpenPNTs)            |
+| Infra     | CometENS: an open source ENS for AirAccount and SDSS.     | [CometENS](https://github.com/AAStarCommunity/CometENS)            |
+| framework | HexagonWarrior: Multi OS client framework                 | [HexagonWarrior-Tauri](https://github.com/AAStarCommunity/HexagonWarrior-Tauri)  |
+| framework | SDK and Demo: A quick Nodejs SDK and a demo to show features | [AAStar_SDK](https://github.com/AAStarCommunity/AAStar_SDK)          |
 
 
 ## Thanks Docsify! 😍
