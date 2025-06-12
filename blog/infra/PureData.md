@@ -1,9 +1,9 @@
-# 纯净数据：不依赖中心化RPC获得链上数据
+# 纯净数据：可验证的中心化RPC链上数据
 
 原文：https://ethereum-magicians.org/t/glamsterdam-headliner-proposal-pureth/24459
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506122224165.png)
 
-这和轻客户端目标有部分是一致的，但没有深入看，而且是craft状态，观察跟进。
+这和轻客户端目标有部分是一致的(不信任中心化RPC），但没有深入看，而且是craft状态，观察跟进。
 
 ---
 
