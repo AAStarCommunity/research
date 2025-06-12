@@ -1,4 +1,24 @@
 # Blog Board
+## 纯净数据：不依赖中心化RPC获得链上数据
+![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506122224165.png)
+
+**Date**: 12 June 2025
+**Link**: [PureData.md](/blog/infra/PureData.md)
+
+
+EIP-7919: Pureth 旨在解决以太坊用户过度依赖中心化RPC服务商所带来的安全与隐私风险。该提案通过改造区块、交易等核心数据结构，使其采用基于树的哈希。这使得RPC响应能直接附带高效的正确性与完整性证明，用户无需再盲目信任数据来源，可自行验证，从而实现信任最小化并抵御欺诈。此举还能提供更紧凑的证明以降低成本，并保证前向兼容性，为以太坊构建一个更安全、保护隐私且经济高效的数据访问基础。
+原文：https://ethereum-magicians.org/t/glamsterdam-headliner-proposal-pureth/24459
+
+**Keywords**:
+- 数据泄露
+- 隐私保护
+- ZK加密
+- 数据主权
+- 社会工程学
+- 数据变现
+- 去中心化
+- 个人隐私
+
 ## 数据泄露的经济学思考：从羔羊到数据主权
 <img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506081156230.jpg" alt="Data Leak" width="50%"/>
 <img src="https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506081129813.png" alt="Data Security" width="50%"/>
