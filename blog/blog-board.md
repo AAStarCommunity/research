@@ -1,5 +1,35 @@
 # Blog Board
-## 纯净数据：不依赖中心化RPC获得链上数据
+## 用 n8n + Gemini + SearXNG 简易复刻一个免费的 Deep Research 低代码 n8n教程
+![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506191012043.png)
+
+Date: 29 April 2025
+
+Link: DeepResearchTutorial.md (/blog/infra/DeepResearchTutorial.md)
+
+Deep Research类AI产品虽然功能强大，但其高昂的搜索API成本常常让人望而却步，例如SerpAPI每5000次搜索收费75美元，Google官方API每1000次查询高达35美元。本教程介绍了一种低成本的替代方案：通过n8n结合Gemini和开源搜索引擎SearXNG，搭建一个免费的Deep Research自动化工作流。用户只需下载提供的n8n工作流文件（DeepResearch_With_SearXNG.zip），即可在本地部署并实现AI驱动的搜索与数据处理。SearXNG作为开源搜索API，不仅免费，还能聚合多个搜索引擎结果，打破单一引擎限制。教程详细讲解了如何将n8n工作流配置为AI Agent工具，让用户灵活调用非标准服务，实现高效、低成本的自动化研究。
+原文：https://vibe.akashio.com/t/topic/145[](https://vibe.akashio.com/t/topic/145)
+
+Keywords:  
+自动化工作流  
+
+开源搜索  
+
+n8n  
+
+SearXNG  
+
+Gemini  
+
+Deep Research  
+
+低代码  
+
+AI Agent
+
+
+
+
+## 纯净数据：可验证的中心化RPC链上数据
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506122224165.png)
 
 **Date**: 12 June 2025
