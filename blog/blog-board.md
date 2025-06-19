@@ -2,7 +2,7 @@
 ## 用 n8n + Gemini + SearXNG 简易复刻一个免费的 Deep Research 低代码 n8n教程
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202506191012043.png)
 
-Date: 29 April 2025
+Date: 19 June 2025
 
 Link: DeepResearchTutorial.md (/blog/infra/DeepResearchTutorial.md)
 
