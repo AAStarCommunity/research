@@ -2,7 +2,7 @@
 
 ## AAStar Research
 
-- <h2>We commit to build a open source infra for human digital future:heart:</h2>
+- <h2>We commit to build an open source infra for human digital future:heart:</h2>
 
 <br>
 <br>

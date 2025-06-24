@@ -20,7 +20,7 @@ topics or any contributions :carrot:.
 | Research Blog      | `:link:` [Research Blog](blog/blog-board.md)                                |
 
 ### AAStar
-- We, AAStar, commit to build a open source infra for human digital future ❤️.
+- We, AAStar, commit to build an open source infra for human digital future ❤️.
 - All products are open source and public goods. 
 - You can try to fork and launch your own version. 
 - Any questions, please open an issue at https://github.com/AAStarCommunity/research/issues. 
